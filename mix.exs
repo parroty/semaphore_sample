@@ -28,6 +28,6 @@ defmodule SemaphoreSample.Mixfile do
   #
   # Type "mix help deps" for more examples and options
   defp deps do
-    [{:excoveralls, github: "parroty/excoveralls"}]
+    [{:excoveralls, "~> 0.5"}]
   end
 end
